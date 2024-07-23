@@ -73,7 +73,7 @@ body {
    }
    
    li {
-     text-align: left;
+     text-align:justify;
      position: relative;
      padding: 0.5rem;
    }
